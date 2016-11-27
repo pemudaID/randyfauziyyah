@@ -109,7 +109,7 @@ function initializeClock(id, endtime) {
 	var timeinterval = setInterval(updateClock, 1000);
 }
 // set your wedding date here
-var deadline = 'November 13 2016';
+var deadline = 'December 3 2016';
 initializeClock('timer', deadline);
 /* 4. Owl Gallery
 ==================================*/
